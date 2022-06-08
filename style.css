@@ -1,0 +1,16 @@
+body{
+    background-color: #0D1B2A;
+    color:#e0e1dd;
+}
+
+
+button{
+    color: #e0e1dd;
+    background-color: #415a77;
+    padding: 5px 8px;
+}
+
+button:hover{
+    background-color: #e0e1dd;
+    color:#415a77;
+}
