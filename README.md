@@ -4,8 +4,8 @@
 <sub>By the end of this lab, you will be able to...</sub>
 
 - [ ] use APIs to make HTTP requests and parse through responses using the Fetch API.
-- [ ] identify and implement asynchronous programming with async/await functions and commands.
-- [ ] create a branch using git commands and explain the purpose and importance of version control.
+- [ ] identify and implement asynchronous programming with ` async `/ ` await ` functions and commands.
+- [ ] create a branch using `git` commands and explain the purpose and importance of version control.
 - [ ] understand how pull requests track changes and implement best practices for code reviews on GitHub.
 ## **Application Features**
 
